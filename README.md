@@ -9,4 +9,4 @@ Summary of Output:
 - MLP: 42.6%
 - CNN: 72.5%
 
-Explanation: CNN is inherently a better network than MLP for learning images. Upon use of kernel, CNN can learn the spatial domain well, compared to MLP that learns the image on pixel array on row-by-row basis. A more in-depth analysis is contained in the iPython Notebook.
+Explanation: CNN is inherently a better network than MLP for learning images. Upon use of kernel, CNN can learn the spatial domain well, compared to MLP that learns the image on pixel array basis. A more in-depth analysis is contained in the iPython Notebook.
